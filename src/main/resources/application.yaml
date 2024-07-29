@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: SecondService
+
+server:
+  port: 9082
+
+logging:
+  level:
+    root: debug
